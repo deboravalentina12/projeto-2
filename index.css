@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+    
+}
+
+.inicio div{
+    display:flex;
+    flex-direction: column;
+}
+img {
+    width: 600px;
+    height: 600px;
+}
